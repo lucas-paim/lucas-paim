@@ -2,7 +2,7 @@
 
 ### 🔎 About Me
 
-- 🎲 Data Engineer at [DB1 Global Software](https://www.db1.com.br/)
+- 🎲 Data Engineer at [ROQT Data & AI](https://roqt.com.br/)
 
 - 🔥 Postgraduate Student in **Computer Vision & Deep Learning** - FGE (SP)
 
